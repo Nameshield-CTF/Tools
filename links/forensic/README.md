@@ -17,6 +17,7 @@
 ### PDF analyzing tools
 - [Qpdf](https://github.com/qpdf/qpdf) - pdf exploring tool
 - [Origami](https://github.com/mobmewireless/origami-pdf) - pdf exploring framework
+- [UnlockPDF](https://www.ilovepdf.com/unlock_pdf) - Remove password security of a PDF
 
 ### Media analyzing tools
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - analysing tool for media's metadata
