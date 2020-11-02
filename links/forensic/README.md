@@ -26,4 +26,4 @@
 ### Other file analyzing tools
 - [OfficeDissector](https://www.officedissector.com/) - analyzing Microsoft office documents
 - [Fcrackzip](https://github.com/hyc/fcrackzip) - brute-force tool for zip archive
-- [Sherlock] (https://github.com/sherlock-project/sherlock) - search an username across social medias
+- [Sherlock](https://github.com/sherlock-project/sherlock) - search an username across social medias
